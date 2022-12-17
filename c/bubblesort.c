@@ -1,6 +1,6 @@
 // Optimized Bubble sort in C
 
-#include 
+#include <stdio.h>
 
 // perform the bubble sort
 void bubbleSort(int array[], int size) {
